@@ -1,0 +1,7 @@
+E:\Tai_Lieu\HK2_2019-2020\PTPM\BaiTapNhom_PhatTrienPhanMem_QLCuaHangXeMay\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\Tai_Lieu\HK2_2019-2020\PTPM\BaiTapNhom_PhatTrienPhanMem_QLCuaHangXeMay\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\Tai_Lieu\HK2_2019-2020\PTPM\BaiTapNhom_PhatTrienPhanMem_QLCuaHangXeMay\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\Tai_Lieu\HK2_2019-2020\PTPM\BaiTapNhom_PhatTrienPhanMem_QLCuaHangXeMay\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\Tai_Lieu\HK2_2019-2020\PTPM\BaiTapNhom_PhatTrienPhanMem_QLCuaHangXeMay\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\Tai_Lieu\HK2_2019-2020\PTPM\BaiTapNhom_PhatTrienPhanMem_QLCuaHangXeMay\BLL_DAL\obj\Debug\BLL_DAL.csprojAssemblyReference.cache
+E:\Tai_Lieu\HK2_2019-2020\PTPM\BaiTapNhom_PhatTrienPhanMem_QLCuaHangXeMay\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
